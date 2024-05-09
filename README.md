@@ -1,2 +1,2 @@
 # gismondichris.github.io
-Website for diplaying projects
+Website for displaying projects
