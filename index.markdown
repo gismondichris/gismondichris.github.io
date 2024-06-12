@@ -14,7 +14,7 @@ professional experiences.
 
 Most pages include links to related items. Want 
 to know about what Python projects I have worked on? Go to [languages]({% link languages.md %}) and 
-select [python]({% link {{python.path}} %}). The related projects are listed 
+select [python]({% link _languages/python.md %}). The related projects are listed 
 at the top of the page.
 
 ### [About]({% link about.md %})

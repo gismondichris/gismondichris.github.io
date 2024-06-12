@@ -12,7 +12,7 @@ I have a fair amount of experience with writing
 simple SQL scripts (UPDATE, INSERT, DELETE) for 
 the database that stores all of our laboratory data. I also
 wrote scripts to add public synonyms, add tables, and add columns.
-See the [database updates]({% link {{database_updates.path}} %}) project for more details.
+See the [database updates]({% link _projects/database_updates.md %}) project for more details.
 
 I use SQL from time to time when creating cystal reports.
 
