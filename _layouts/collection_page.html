@@ -1,0 +1,31 @@
+---
+layout: default
+---
+<article class="post">
+
+  <header class="post-header">
+    <h1 class="page-heading">{{ page.title | escape }}</h1>
+  </header>
+
+  <div class="post-content">
+    {{ content }}
+  </div>
+  
+  {%- assign collection = site[page.collection] -%}
+  {%- if collection.size > 0 -%}
+  <ul class="post-list">
+    {%- for item in collection -%}
+    <li>
+	  <h3>
+	    <a class="post-link" href="{{ item.url | relative_url }}">
+		  {{ item.title | escape }}
+	    </a>
+	  </h3>
+	  {{ item.excerpt | split: "</h4>" | last | strip_html -}} <span class="post-meta"> [<a href="{{ item.url | relative_url }}">continue here</a>] </span>
+    </li>
+    {%- endfor -%}
+  </ul>
+
+  {%- endif -%}
+
+</article>

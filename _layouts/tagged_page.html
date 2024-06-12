@@ -1,0 +1,22 @@
+---
+layout: default
+---
+<article class="post">
+
+  <header class="post-header">
+    <h1 class="page-heading">{{ page.title | escape }}</h1>
+  </header>
+
+  <div class="post-content">
+	<div class="post-meta">
+	{% include tag.html content=page.languages label="Related languages" collection=site.languages %}
+	{% include tag.html content=page.projects label="Related projects" collection=site.projects %}
+	{% include tag.html content=page.skills label="Related skills" collection=site.skills %}
+	{% include tag.html content=page.tools label="Related tools" collection=site.tools %}
+	{% include tag.html content=page.roles label="Related roles" collection=site.roles %}
+	</div>
+	<br>
+    {{ content }}
+  </div>
+
+</article>

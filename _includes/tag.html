@@ -1,0 +1,10 @@
+{%- if include.content -%}
+{{ include.label }}: 
+{% for item_name in include.content -%}
+{%- assign item = include.collection | where: "title", item_name | first -%}
+<a href={{item.url}}> {{ item.title }}</a>
+{%- if forloop.last -%}<br>{%- else -%}
+&nbsp;|&nbsp;
+{%- endif -%}
+{%- endfor %}
+{%- endif -%}
