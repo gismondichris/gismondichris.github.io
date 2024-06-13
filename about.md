@@ -26,4 +26,4 @@ step into more complex programming and/or networking roles.
 
 This site highlights some of the languages 
 and tools I have used. It also describes some of the projects 
-I have completed. Finally, I have listed my roles and what some of responsibilities in those roles were.
+I have completed. Finally, I have listed my roles and highlighted my primary responsibilities in each role.
