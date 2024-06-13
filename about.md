@@ -22,6 +22,8 @@ automation to database design. My interest grew as I was given more projects
 and I decided to pursue a second Bachelor's in Computer Science. 
 
 I am currently looking to take the skills I developed and 
-step into more complex programming and/or networking roles. This site highlights some of the tools, 
-languages, and skills I have learned. It also describes some of the projects 
-I have completed.
+step into more complex programming and/or networking roles. 
+
+This site highlights some of the languages 
+and tools I have used. It also describes some of the projects 
+I have completed. Finally, I have listed my roles and what some of responsibilities in those roles were.

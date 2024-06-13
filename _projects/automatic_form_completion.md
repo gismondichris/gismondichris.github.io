@@ -2,7 +2,7 @@
 title: Automatic Form Completion
 languages:
   - VBA
-role:
+roles:
   - Laboratory Data Manager
 ---
 
@@ -19,7 +19,7 @@ When one of them needs to be replaced, they usually all need to be replaced. Sin
 about 50 of these forms posted, it could take quite a long time to edit the information 
 on each of the forms. It also introduced a potential for errors.
 
-By simply writing out all the information once in a separate tab, the VBA could iterate over
+By simply writing out all the information once in a separate tab, the VBA macro could iterate over
 the information and print the form.
 
 This was an example of a very simple VBA that prevented errors and saved time.

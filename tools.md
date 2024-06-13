@@ -1,5 +1,7 @@
 ---
 title: Tools
-layout: page
+layout: collection_page
+collection: tools
 ---
-This is the tools site
+
+These are a selection of tools that I have used. See below for more details.

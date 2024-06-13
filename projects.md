@@ -5,7 +5,7 @@ collection: projects
 ---
 
 The projects below were chosen to help demonstrate some of my 
-technilogical experiences. Most of the projects below were completed to address specific issues 
+technological experiences. Most of the projects below were completed to address specific issues 
 in my workplace. The descriptions highlight what
 the project accomplished, some of the challenges of each project, and 
 how those challenges were approached.

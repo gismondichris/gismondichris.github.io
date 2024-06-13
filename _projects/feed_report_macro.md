@@ -18,5 +18,5 @@ very well. So I began to look into the generated code.
 
 I googled what I needed to do and was able to resolve this issue. More importantly, this project 
 introduced me to the world of coding. Shortly after completing this project,
-I started teaching myself Python and using is to automate tasks in the 
+I started teaching myself Python and using it to automate tasks in the 
 lab.

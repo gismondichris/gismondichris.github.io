@@ -30,7 +30,7 @@ Create a backlog that shows that status
 of all samples in the laboratory.
 - The database could not be modified in any way
 - All user editable parameters must be stored in csv files
-- The status of the sample must be determined using these user parameters\
+- The status of the sample must be determined using user parameters
 
 
 #### Description
@@ -46,14 +46,18 @@ processes that the sample could be subject to.
 
 A sample consists of processes, which consists of stages. which consists of components.
 Each component correlates to a database field.
+- component - database field
+- stage - set of components completed at the same time
+- process - a set of stages completed in a specified order
+- sample - may be subject to any number of processes
 
-Then the program would look at the components to determine if a stage was pending previous 
+The program would look at the components to determine if a stage was pending previous 
 stages, pending with all previous stages complete, in progress, or complete.
 
 Each stage could be assigned a department, which represents groups of people 
 in the lab that were responsible for completing that stage.
 
-The reports were organized by department. This was each department could see 
+The reports were organized by department so that each department could see 
 what stages needed to be completed for each sample. They could also see samples that 
 were in progress, waiting on previous stages, or even complete. The reports also 
 calculated how many days the sample had been waiting for a given stage to complete.

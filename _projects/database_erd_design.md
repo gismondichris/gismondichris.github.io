@@ -16,13 +16,13 @@ standards and reagents inventory.
 
 All the items and actions related to an inventory were modelled 
 in the design I submitted. Some of the items included:
-- standard type
-- vendor
-- manufacturer
-- expiration dates
-- hazards
+- Standard type
+- Vendor
+- Manufacturer
+- Expiration dates
+- Hazards
 
 There were plans to implement the database and then use Power 
 Apps to create the front-end for users. Unfortunately, there was 
-a change in leadership in the IT side and the project was abandoned.
+a change in leadership on the IT side and the project was abandoned.
 I did however, get to complete and submit the ERD design.

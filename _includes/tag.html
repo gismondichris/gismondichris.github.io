@@ -1,6 +1,7 @@
 {%- if include.content -%}
-{{ include.label }}: 
-{% for item_name in include.content -%}
+{%- assign this_content = include.content | sort -%}
+{{ include.label }}:<a name={{include.label | slugify}}></a>
+{% for item_name in this_content -%}
 {%- assign item = include.collection | where: "title", item_name | first -%}
 <a href={{item.url}}> {{ item.title }}</a>
 {%- if forloop.last -%}<br>{%- else -%}

@@ -13,7 +13,7 @@ tools:
 This project utilized Python to create a sample discard list.
 This list was generated based on the time since samples
 were validated and the contents that were found in the sample.
-Any unknonwn chemicals will open a website with the chemical information
+Any unknown chemicals would open a website with the chemical information
 and the user can enter the discard status for that chemical. This will 
 be remembered for future executions.
 
@@ -28,7 +28,7 @@ chemicals that were identified in the sample, different sample
 discard proceedures must be followed.
 
 The program used an external file to store information about
-which chemicals require which displosal type. However, there 
+which chemicals require which disposal type. However, there 
 are many different names for chemicals and many different chemicals. 
 Rather than attempt to list every possible chemical name, I simply started with 
 a list of common checmicals and their discard status.

@@ -1,5 +1,5 @@
 ---
-title: General Crystal Report
+title: General Crystal Reports
 roles:
   - Laboratory Data Manager
 tools:
@@ -9,13 +9,13 @@ tools:
 ---
 
 #### Summary
-Less a project and more an ongoing maintenance and creation.
+This is less a project and more a task that I completed frequently.
 I maintained all the crystal reports for our laboratory 
 and generated new reports as needed.
 
 #### Description
-The laboratory uses crystal reports for a variety of internal data 
-needs but also uses it to generate official reports sent to customers.
+The laboratory used crystal reports for a variety of internal data 
+needs but also used it to generate official reports sent to customers.
 
 I was responsible for creating any new reports that were needed and 
 modifying old reports. Most cases were simple, but there were times where I had to use

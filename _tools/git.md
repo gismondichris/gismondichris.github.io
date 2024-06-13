@@ -4,10 +4,11 @@ projects:
   - Customer Data Report
   - Discard List Report
   - Python TCP Server
+  - Backlog Generator
 ---
 
 I have used Git for years to manage my personal and work projects. 
-Most of the time, I utilize the commandes available through IDE's like 
+Most of the time, I utilize the commands available through IDE's like 
 PyCharm. I have also utilize terminal commands as needed. I was the sole person 
 making commits for all of my projects except for one educatoinal project.
 

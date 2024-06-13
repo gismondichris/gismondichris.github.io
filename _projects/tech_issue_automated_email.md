@@ -8,7 +8,7 @@ tools:
 
 #### Summary
 Information regarding tech issues is sent to the 
-Laboratory Data Manager (myself) and a notification email 
+Laboratory Data Manager and a notification email 
 is sent to the user who submitted the issue.
 
 #### Description
@@ -24,5 +24,5 @@ respond to the user who submitted the issue or request.
 
 This project was implemented to address the lack of ticketing 
 system within our section. A button was added to out Laboratory 
-Information Management System that would take users directly to the 
+Information Management System (LIMS) that would take users directly to the 
 Microsot Form.

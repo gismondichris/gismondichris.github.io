@@ -2,12 +2,12 @@
 title: Automatic Network Drive Connection
 roles:
   - Laboratory Data Manager
-languages:
+tools:
   - PowerShell
 ---
 
 #### Summary
-Accepts user credentials at login in order to reconnect
+Accepts user credentials after login in order to reconnect
 network drives on isolated network.
 
 #### Description

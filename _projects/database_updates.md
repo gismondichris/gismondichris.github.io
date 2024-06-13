@@ -25,6 +25,6 @@ were any issues. Some of the identified problems included missing columns,
 missing tables, and missing public synonymns. I would then write SQL 
 scripts to fix the problems.
 
-Because of our IT strucutre, I was not allowed to directly edit the database.
+Because of our IT structure, I was not allowed to directly edit the database.
 So I would coordinate with the vendor to confirm that my scripts were correct, 
-and then submit them to IT for completion.
+and then submit them to IT.

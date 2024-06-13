@@ -18,8 +18,8 @@ coding projects have been completed in Python. I have also taken
 several educational courses that heavily utilized the language.
 
 If I have a choice of programming languages and efficiency is not a 
-major concern, I will go to Python. Especially if the project needs to 
-be completed quickly.
+major concern, I will choose Python. This is especially true if I 
+need to complete the project quickly.
 
 The related projects are a fair sampling of the kinds of work I have done 
 in Python.

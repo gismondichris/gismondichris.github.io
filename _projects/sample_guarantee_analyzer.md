@@ -9,7 +9,7 @@ languages:
 #### Summary
 A Python GUI Windows desktop application where users can enter in
 the chemical guarantees of a fertilizer sample. The program then 
-displays what analyses to order for the sample. The rules that govern
+displays what analyses to order for the sample. The rules that determine
 what analyses to order are governed by a locally stored csv file that 
 users can edit to account for changing rules.
 
@@ -43,7 +43,5 @@ the conditions above.
 If I could revisit this project now, I would update the GUI and change the way rules are stored.
 An ideal improvement would be to allow users to edit and view rules directly through the GUI. 
 But as with many of the projects I completed for the lab, it was more important to 
-have minimally viable product available then spend weeks or months perfecting something.
+have a minimally viable product then spend weeks or months perfecting something.
 
-As with many things in life, I learned that its important in software to not let the 
-perfect become the enemey of the good.
